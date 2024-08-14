@@ -12,4 +12,12 @@ git remote add origin https://github.com/nancyhuangcodes/colmaracademy.git
 git remote -v
 git push -u origin main
 
+2. In the event that URL repo i sset wrongly, use the following command to set the correct url:
+
+git remote set-url origin https://github.com/nancyhuangcodes/colmaracademy.git
+
+git remote -v
+git push
+
+
 ```
